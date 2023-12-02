@@ -77,4 +77,4 @@ async def githubproj(ctx):
 
     await ctx.send(embed=embed)
 
-bot.run('MTE3NjE5MDM3MTU4NDI5OTAwOA.Gm7D59.Z60XCHoTcRShixBdA1aAyovLzYi3gpNi3OFrqQ')
+bot.run('token')
